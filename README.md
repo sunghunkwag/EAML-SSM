@@ -71,7 +71,7 @@ pip install -e .[dev]
 
 For a quick demonstration of the EAML-SSM framework, you can run the demo script:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sunghunkwag/EAML-SSM/blob/main/demo.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sunghunkwag/EAML-SSM/blob/main/demo.ipynb)
 
 ```bash
 python demo.py
