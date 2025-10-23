@@ -1,8 +1,6 @@
 # EAML-SSM: Experience-Augmented Meta-Learning with State-Space Models
 
-[![CI](https://github.com/sunghunkwag/EAML-SSM/actions/workflows/ci.yml/badge.svg)](https://github.com/sunghunkwag/EAML-SSM/actions/workflows/ci.yml)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+**Python 3.8+ | PyTorch | MIT License**
 
 A hybrid research framework that combines high-performance meta-learning with experience-augmented test-time adaptation.
 
