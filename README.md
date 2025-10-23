@@ -69,6 +69,19 @@ pip install -e .[dev]
 
 ### Run Main Demo
 
+For a quick demonstration of the EAML-SSM framework, you can run the demo script:
+
+```bash
+python demo.py
+```
+
+This will run a basic example that demonstrates:
+- State-space model initialization
+- Sample trajectory generation
+- Experience-augmented adaptation process
+
+### Full Training
+
 This will run the full pipeline: meta-training, experience accumulation, and the hybrid test-time adaptation demo.
 
 ```bash
